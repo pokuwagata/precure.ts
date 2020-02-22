@@ -1,0 +1,26 @@
+{
+  "name": "precure.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "typescript": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokuwagata/precure.ts.git"
+  },
+  "author": "yn2011",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokuwagata/precure.ts/issues"
+  },
+  "homepage": "https://github.com/pokuwagata/precure.ts#readme"
+}
