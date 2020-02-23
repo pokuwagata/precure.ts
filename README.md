@@ -1,5 +1,8 @@
 # healin-good-precure-ts
 
+[Healin' Good♥Precure](http://www.toei-anim.co.jp/tv/precure/)
+Inspired by Acme::PrettyCure.
+
 ## Installation
 
 `$ npm i healin-good-precure-ts`
