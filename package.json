@@ -1,8 +1,10 @@
 {
-  "name": "precure.ts",
+  "name": "healin-good-precure-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/precure.js",
+  "types": "dist/precure.d.ts",
+  "files": ["dist"],
   "directories": {
     "doc": "doc"
   },

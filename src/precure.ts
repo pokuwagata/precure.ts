@@ -3,7 +3,7 @@ import * as grace from "./cure-grace";
 import * as fontaine from "./cure-fontaine";
 import * as sparkle from "./cure-sparkle";
 
-export class Precure {
+class Precure {
   constructor(state: State) {
     this.state = state;
   }
@@ -34,3 +34,5 @@ export class Precure {
     return precures;
   }
 }
+
+export default Precure;
